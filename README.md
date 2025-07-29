@@ -35,11 +35,11 @@
 ### 
 <h3 align="center">Check out my Socials!</h3>
 <div align="center">
-  <a src="https://youtube.com/@SkylerClock"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="40" alt="YouTube"  /></a>
+  <a href="https://youtube.com/@SkylerClock"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="40" alt="YouTube"  /></a>
   <img width="12" />
-  <a src="https://x.com/SkylerClocky"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" height="40" alt="X (Twitter)"  /></a>
+  <a href="https://x.com/SkylerClocky"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" height="40" alt="X (Twitter)"  /></a>
   <img width="12" />
-  <a src="https://www.roblox.com/users/1799387310/profile"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.jpg" height="40" alt="Roblox"  /></a>
+  <a href="https://www.roblox.com/users/1799387310/profile"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.jpg" height="40" alt="Roblox"  /></a>
   <img width="12" />
-  <a src="https://twitch.tv/SkylerClocky"><img src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" height="40" alt="Twitch"  /></a>
+  <a href="https://twitch.tv/SkylerClocky"><img src="https://cdn.worldvectorlogo.com/logos/twitch-purple.svg" height="40" alt="Twitch"  /></a>
 </div>
